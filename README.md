@@ -11,7 +11,7 @@ Ce projet implémente l'algorithme de clustering K-Means en C++.
 
 ## À Propos de l'Image de Test
 
-Le fichier `plage.ppm` est une image personnalisée créée lors d'un projet d'infographie. Ce fichier a été généré en utilisant une programme C que nous avons crée.
+Le fichier `plage.ppm` est une image personnalisée créée lors d'un projet d'infographie. Ce fichier a été généré en utilisant un programme C que nous avons crée.
 
 ## Utilisation
 
